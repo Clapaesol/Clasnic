@@ -2,17 +2,17 @@
 
 > Plataforma web modular inspirada en los sistemas ERP, orientada a la gestión de procesos empresariales de una consultora tecnológica, con funcionalidades de inteligencia artificial aplicada.
 
-## 🚧 Estado del proyecto
+## Estado del proyecto
 
 En fase de análisis y diseño (Fase 0-1). Todavía no hay código de backend/frontend; el trabajo actual se centra en documentación de visión y requisitos.
 
-## 📖 Sobre el proyecto
+## Sobre el proyecto
 
 Clasnic centraliza la gestión de solicitudes, tareas, incidencias, aprobaciones, documentación y procesos internos de una organización, incorporando IA para clasificar solicitudes, generar resúmenes y apoyar la toma de decisiones.
 
 Para el contexto completo (problema que resuelve, objetivos y resultados esperados), consulta el [Documento de Visión](docs/01-vision.md).
 
-## 🗂️ Estructura del repositorio
+## Estructura del repositorio
 
 ```
 Clasnic/
@@ -26,10 +26,10 @@ Clasnic/
 └── tests/        # Pruebas automatizadas (pendiente)
 ```
 
-## 🛣️ Roadmap
+## Roadmap
 
 El desarrollo de Clasnic se apoya en una serie de proyectos más pequeños que sirven para consolidar competencias concretas (APIs, dashboards, integración, workflows, IA, Docker) antes de aplicarlas al proyecto completo.
 
-## 📄 Licencia
+## Licencia
 
 Ver [LICENSE](LICENSE).
