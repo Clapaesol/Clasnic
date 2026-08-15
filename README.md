@@ -4,7 +4,7 @@
 
 ## Estado del proyecto
 
-En fase de análisis y diseño (Fase 0-1). Todavía no hay código de backend/frontend; el trabajo actual se centra en documentación de visión y requisitos.
+En fase de análisis y diseño. Todavía no hay código de backend/frontend; el trabajo actual se centra en documentación de visión y requisitos.
 
 ## Sobre el proyecto
 
